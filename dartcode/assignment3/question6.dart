@@ -10,7 +10,7 @@ void main(){
   num subjPer = (subjAdd / 400 * 100);
 
   print(
-      "Student Name = Robert \n Got marks in English = $subEnglish\n Got marks in Urdu = $subUrdu\n Got marks in Math = $subMath\n\n"
+      "Student Name = Robert \n Got marks in English = $subjEnglish\n Got marks in Urdu = $subjUrdu\n Got marks in Math = $subjMath\n\n"
       "total Marks =$subjAdd\n"
       "Final Percentage = $subjPer%");
 
